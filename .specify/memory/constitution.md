@@ -1,55 +1,59 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+---
+Sync Impact Report
+---
+- **Version Change**: `0.1.0` -> `1.0.0`
+- **Reason**: Initial constitution established from project definition.
+- **Modified Principles**:
+  - `[PRINCIPLE_1_NAME]` -> `I. Clarity and Accessibility`
+  - `[PRINCIPLE_2_NAME]` -> `II. Structured and Modular Content`
+  - `[PRINCIPLE_3_NAME]` -> `III. Practical and Focused Scope`
+  - `[PRINCIPLE_4_NAME]` -> `IV. Consistency`
+  - `[PRINCIPLE_5_NAME]` -> `V. Adherence to Technical Stack`
+- **Added Sections**:
+  - `Content Structure`
+  - `Development Workflow`
+- **Removed Sections**: None
+- **Templates Requiring Updates**:
+  - ✅ `.specify/templates/plan-template.md` (Verified for alignment)
+  - ✅ `.specify/templates/spec-template.md` (Verified for alignment)
+  - ✅ `.specify/templates/tasks-template.md` (Verified for alignment)
+- **Follow-up TODOs**: None
+-->
+# Physical AI & Humanoid Robotics Constitution
+
+A textbook teaching students how AI connects to physical bodies through robotics, covering ROS 2, Gazebo, NVIDIA Isaac, and Vision-Language-Action systems for humanoid robots.
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Clarity and Accessibility
+Content MUST be written at a 5th-6th grade English reading level. Complex topics MUST be simplified into easy-to-understand terms and concepts. The primary goal is to make sophisticated AI and robotics concepts accessible to beginners and students.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. Structured and Modular Content
+Every module MUST be broken down into multiple chapters and sections. Each chapter MUST begin with clear learning objectives, include illustrative diagrams or visuals, and conclude with a concise explanation of how the component fits into the overall humanoid pipeline. Modules should be between 4,000 to 6,000 words.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Practical and Focused Scope
+All content MUST directly relate to "Physical AI" and humanoid systems. Theoretical discussions without practical application are to be avoided. The book is an informational textbook ONLY; it will not contain labs, coding assignments, or hardware requirements.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Consistency
+Consistent terminology and concepts MUST be maintained across all modules and chapters to ensure a cohesive learning experience.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Adherence to Technical Stack
+The book's content will be created using Docusaurus and MDX. This is a firm constraint for the final deliverable.
 
-### [PRINCIPLE_6_NAME]
+## Content Structure
 
+- **Module 1: The Robotic Nervous System (ROS 2)**: Covers ROS 2 nodes, topics, services, rclpy, and URDF fundamentals.
+- **Module 2: The Digital Twin (Gazebo & Unity)**: Explains simulation of physics, environments, and sensors.
+- **Module 3: The AI-Robot Brain (NVIDIA Isaac)**: Details Isaac Sim, Isaac ROS, and Nav2 for locomotion.
+- **Module 4: Vision-Language-Action (VLA)**: Describes voice-to-action systems, using LLMs as planners, and high-level autonomous workflows.
 
-[PRINCIPLE__DESCRIPTION]
+## Development Workflow
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
-
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+The project will deliver a complete Docusaurus book. Initially, only the chapters for Module 1 will be fully written. For Modules 2, 3, and 4, only a module overview will be created. This iterative approach allows for focused content creation.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This constitution is the single source of truth for project scope, quality, and structure. All content contributions MUST adhere to these principles. Any amendments to this constitution require team consensus, documentation of the changes, and a version bump.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2025-12-05 | **Last Amended**: 2025-12-05

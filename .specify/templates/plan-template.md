@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+*   [ ] **Clarity and Accessibility**: Is the language simple and clear for a 5th-6th grade reading level?
+*   [ ] **Structured and Modular Content**: Does the plan align with the modular chapter structure (objectives, visuals, summary)?
+*   [ ] **Practical and Focused Scope**: Is the work strictly within the defined project scope (informational, no labs/code)?
+*   [ ] **Consistency**: Does the plan maintain consistent terminology with other modules?
+*   [ ] **Adherence to Technical Stack**: Does the proposed work use Docusaurus and MDX?
 
 ## Project Structure
 
