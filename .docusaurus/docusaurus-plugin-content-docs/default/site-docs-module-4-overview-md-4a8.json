@@ -1,0 +1,20 @@
+{
+  "id": "module4/overview",
+  "title": "Module 4: Vision-Language-Action (Overview)",
+  "description": "This chapter explores the cutting-edge field of Vision-Language-Action (VLA) systems, which enable robots to understand and execute commands based on natural language and visual perception. We will discuss technologies like Whisper for voice-to-action capabilities and how Large Language Models (LLMs) can serve as powerful planners, translating human instructions into sequences of ROS 2 actions. The module culminates in an examination of high-level autonomous humanoid workflows driven by VLA systems.",
+  "source": "@site/docs/module4/overview.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/overview",
+  "permalink": "/docs/module4/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/your-repo/tree/main/docs/module4/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain (Overview)",
+    "permalink": "/docs/module3/overview"
+  }
+}

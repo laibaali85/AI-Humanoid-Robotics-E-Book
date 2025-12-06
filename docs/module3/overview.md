@@ -1,0 +1,3 @@
+# Module 3: The AI-Robot Brain (Overview)
+
+This chapter delves into the "AI-Robot Brain," focusing on NVIDIA's Isaac platform. We will explore Isaac Sim for photorealistic simulation and synthetic data generation, which is vital for training AI models. The module also covers Isaac ROS for implementing perception tasks like Visual SLAM (VSLAM) and Nav2 for sophisticated locomotion planning. These tools enable humanoid robots to perceive their environment, understand their location, and navigate autonomously.

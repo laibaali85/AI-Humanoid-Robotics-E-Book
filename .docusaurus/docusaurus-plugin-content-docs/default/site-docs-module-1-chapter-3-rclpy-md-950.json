@@ -1,0 +1,24 @@
+{
+  "id": "module1/chapter3-rclpy",
+  "title": "Chapter 3: Connecting with rclpy (Python Client Library)",
+  "description": "The rclpy library is ROS 2's Python client. It allows you to write ROS 2 nodes using Python, making it easy for AI engineers to integrate their models and algorithms with a robot's communication system. This chapter will conceptually demonstrate how rclpy is used to create nodes, publish data, and subscribe to information from other parts of the robot.",
+  "source": "@site/docs/module1/chapter3-rclpy.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/chapter3-rclpy",
+  "permalink": "/docs/module1/chapter3-rclpy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/your-repo/tree/main/docs/module1/chapter3-rclpy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: ROS 2 Nodes, Topics, and Services",
+    "permalink": "/docs/module1/chapter2-nodes-topics-services"
+  },
+  "next": {
+    "title": "Chapter 4: Describing Robots with URDF",
+    "permalink": "/docs/module1/chapter4-urdf"
+  }
+}

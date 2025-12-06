@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "module1/chapter1-introduction",
+          "docs": [
+            {
+              "id": "module1/chapter1-introduction",
+              "path": "/docs/module1/chapter1-introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/chapter2-nodes-topics-services",
+              "path": "/docs/module1/chapter2-nodes-topics-services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/chapter3-rclpy",
+              "path": "/docs/module1/chapter3-rclpy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/chapter4-urdf",
+              "path": "/docs/module1/chapter4-urdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/chapter5-final-project",
+              "path": "/docs/module1/chapter5-final-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module2/overview",
+              "path": "/docs/module2/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module3/overview",
+              "path": "/docs/module3/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module4/overview",
+              "path": "/docs/module4/overview",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/module1/chapter1-introduction",
+                "label": "module1/chapter1-introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

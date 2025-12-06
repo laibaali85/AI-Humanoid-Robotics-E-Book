@@ -1,0 +1,24 @@
+{
+  "id": "module3/overview",
+  "title": "Module 3: The AI-Robot Brain (Overview)",
+  "description": "This chapter delves into the \"AI-Robot Brain,\" focusing on NVIDIA's Isaac platform. We will explore Isaac Sim for photorealistic simulation and synthetic data generation, which is vital for training AI models. The module also covers Isaac ROS for implementing perception tasks like Visual SLAM (VSLAM) and Nav2 for sophisticated locomotion planning. These tools enable humanoid robots to perceive their environment, understand their location, and navigate autonomously.",
+  "source": "@site/docs/module3/overview.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/overview",
+  "permalink": "/docs/module3/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/your-repo/tree/main/docs/module3/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin (Overview)",
+    "permalink": "/docs/module2/overview"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (Overview)",
+    "permalink": "/docs/module4/overview"
+  }
+}

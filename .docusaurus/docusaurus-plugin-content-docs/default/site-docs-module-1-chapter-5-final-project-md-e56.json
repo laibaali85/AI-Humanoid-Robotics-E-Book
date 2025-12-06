@@ -1,0 +1,26 @@
+{
+  "id": "module1/chapter5-final-project",
+  "title": "Chapter 5: Final Project",
+  "description": "This chapter will contain a hands-on project that integrates all the concepts covered in this module. You will learn how to create a ROS 2 package, define custom messages, and use services and actions to build a complete robotics application.",
+  "source": "@site/docs/module1/chapter5-final-project.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/chapter5-final-project",
+  "permalink": "/docs/module1/chapter5-final-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/your-repo/tree/main/docs/module1/chapter5-final-project.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 5: Final Project"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Describing Robots with URDF",
+    "permalink": "/docs/module1/chapter4-urdf"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin (Overview)",
+    "permalink": "/docs/module2/overview"
+  }
+}

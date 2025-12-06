@@ -1,0 +1,20 @@
+{
+  "id": "module1/chapter1-introduction",
+  "title": "Chapter 1: Introduction to ROS 2 (Understanding the Nervous System)",
+  "description": "This chapter introduces ROS 2 (Robot Operating System 2) as the fundamental communication and coordination framework for robots. We'll explore why it's often called the \"nervous system\" of a robot, enabling different components to send and receive information, much like biological systems.",
+  "source": "@site/docs/module1/chapter1-introduction.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/chapter1-introduction",
+  "permalink": "/docs/module1/chapter1-introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/your-repo/tree/main/docs/module1/chapter1-introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 2: ROS 2 Nodes, Topics, and Services",
+    "permalink": "/docs/module1/chapter2-nodes-topics-services"
+  }
+}

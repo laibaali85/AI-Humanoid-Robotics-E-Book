@@ -1,0 +1,3 @@
+# Module 2: The Digital Twin (Overview)
+
+This chapter introduces the concept of a Digital Twin, which is a virtual model designed to accurately reflect a physical object. We will explore its significance in robotics, especially in simulating complex systems without the need for physical hardware. The module will cover the use of simulation platforms like Gazebo and Unity, demonstrating how they are used to simulate robot physics, collisions, and various environments. Furthermore, we will delve into how robotic sensors such as LiDAR, Depth Cameras, and IMUs are simulated to enable virtual robots to perceive their surroundings.

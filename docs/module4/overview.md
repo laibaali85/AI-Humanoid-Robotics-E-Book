@@ -1,0 +1,3 @@
+# Module 4: Vision-Language-Action (Overview)
+
+This chapter explores the cutting-edge field of Vision-Language-Action (VLA) systems, which enable robots to understand and execute commands based on natural language and visual perception. We will discuss technologies like Whisper for voice-to-action capabilities and how Large Language Models (LLMs) can serve as powerful planners, translating human instructions into sequences of ROS 2 actions. The module culminates in an examination of high-level autonomous humanoid workflows driven by VLA systems.

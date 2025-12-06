@@ -1,0 +1,24 @@
+{
+  "id": "module2/overview",
+  "title": "Module 2: The Digital Twin (Overview)",
+  "description": "This chapter introduces the concept of a Digital Twin, which is a virtual model designed to accurately reflect a physical object. We will explore its significance in robotics, especially in simulating complex systems without the need for physical hardware. The module will cover the use of simulation platforms like Gazebo and Unity, demonstrating how they are used to simulate robot physics, collisions, and various environments. Furthermore, we will delve into how robotic sensors such as LiDAR, Depth Cameras, and IMUs are simulated to enable virtual robots to perceive their surroundings.",
+  "source": "@site/docs/module2/overview.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/overview",
+  "permalink": "/docs/module2/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/your-repo/tree/main/docs/module2/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Final Project",
+    "permalink": "/docs/module1/chapter5-final-project"
+  },
+  "next": {
+    "title": "Module 3: The AI-Robot Brain (Overview)",
+    "permalink": "/docs/module3/overview"
+  }
+}
