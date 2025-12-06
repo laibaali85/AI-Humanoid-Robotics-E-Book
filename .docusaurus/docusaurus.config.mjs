@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "AI-Powered Robotics Development",
-  "tagline": "An introductory textbook for building intelligent robots.",
+  "title": "My Site",
+  "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "your-org",
-  "projectName": "your-repo",
+  "url": "https://laibaali85.github.io",
+  "baseUrl": "/AI-Humanoid-Robotics-E-Book/",
+  "organizationName": "facebook",
+  "projectName": "docusaurus",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -47,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/your-org/your-repo/tree/main/"
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
           "showReadingTime": true,
@@ -58,7 +58,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/your-org/your-repo/tree/main/",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -77,7 +77,7 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "AI-Powered Robotics Development",
+      "title": "My Site",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -87,7 +87,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Modules"
+          "label": "Tutorial"
         },
         {
           "to": "/blog",
@@ -95,7 +95,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/your-org/your-repo",
+          "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
         }
@@ -109,8 +109,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Modules",
-              "to": "/docs/module1/chapter1-introduction"
+              "label": "Tutorial",
+              "to": "/docs/intro"
             }
           ]
         },
@@ -140,7 +140,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/your-org/your-repo"
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }

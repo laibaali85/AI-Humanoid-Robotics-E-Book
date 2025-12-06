@@ -5,20 +5,20 @@
   "source": "@site/docs/module2/overview.md",
   "sourceDirName": "module2",
   "slug": "/module2/overview",
-  "permalink": "/docs/module2/overview",
+  "permalink": "/AI-Humanoid-Robotics-E-Book/docs/module2/overview",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-org/your-repo/tree/main/docs/module2/overview.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/overview.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 5: Final Project",
-    "permalink": "/docs/module1/chapter5-final-project"
+    "permalink": "/AI-Humanoid-Robotics-E-Book/docs/module1/chapter5-final-project"
   },
   "next": {
     "title": "Module 3: The AI-Robot Brain (Overview)",
-    "permalink": "/docs/module3/overview"
+    "permalink": "/AI-Humanoid-Robotics-E-Book/docs/module3/overview"
   }
 }

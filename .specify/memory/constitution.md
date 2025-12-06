@@ -39,7 +39,7 @@ All content MUST directly relate to "Physical AI" and humanoid systems. Theoreti
 Consistent terminology and concepts MUST be maintained across all modules and chapters to ensure a cohesive learning experience.
 
 ### V. Adherence to Technical Stack
-The book's content will be created using Docusaurus and MDX. This is a firm constraint for the final deliverable.
+The book's content will be created using Docusaurus and MDX, with Python 3.x used for conceptual examples, especially for RCLPY. These technologies are foundational for content generation and example implementations, emphasizing their role in illustrating concepts rather than full-stack development.
 
 ## Content Structure
 
