@@ -27,8 +27,8 @@
       869,
       354
     ],
-    "0058b4c6": [
-      849
+    "02d57490": [
+      922
     ],
     "1df93b7f": [
       869,
@@ -99,7 +99,7 @@
         {
           "file": "assets/js/a94703ab.6604d1ba.js",
           "hash": "b63c9a1fb5421584",
-          "publicPath": "/assets/js/a94703ab.6604d1ba.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/a94703ab.6604d1ba.js"
         }
       ]
     },
@@ -108,7 +108,7 @@
         {
           "file": "assets/js/1f391b9e.a0df7278.js",
           "hash": "6626ddf720b8fd5f",
-          "publicPath": "/assets/js/1f391b9e.a0df7278.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/1f391b9e.a0df7278.js"
         }
       ]
     },
@@ -117,25 +117,25 @@
         {
           "file": "assets/js/a7bd4aaa.8f103320.js",
           "hash": "963a0bee13fc86d5",
-          "publicPath": "/assets/js/a7bd4aaa.8f103320.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/a7bd4aaa.8f103320.js"
         }
       ]
     },
     "134": {
       "js": [
         {
-          "file": "assets/js/393be207.1786d49f.js",
-          "hash": "f8c403b8425c5a77",
-          "publicPath": "/assets/js/393be207.1786d49f.js"
+          "file": "assets/js/393be207.26929567.js",
+          "hash": "6126c95f27d90f56",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/393be207.26929567.js"
         }
       ]
     },
     "222": {
       "js": [
         {
-          "file": "assets/js/e0e50a6c.5f337277.js",
-          "hash": "4804fb71a5109a4f",
-          "publicPath": "/assets/js/e0e50a6c.5f337277.js"
+          "file": "assets/js/e0e50a6c.7d57cfd8.js",
+          "hash": "6e64691b1a859839",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/e0e50a6c.7d57cfd8.js"
         }
       ]
     },
@@ -144,7 +144,7 @@
         {
           "file": "assets/js/a7456010.27e26ed0.js",
           "hash": "c0cf2a2c3b5908be",
-          "publicPath": "/assets/js/a7456010.27e26ed0.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/a7456010.27e26ed0.js"
         }
       ]
     },
@@ -153,7 +153,7 @@
         {
           "file": "assets/js/237.66d00617.js",
           "hash": "26ffe27bc218454d",
-          "publicPath": "/assets/js/237.66d00617.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/237.66d00617.js"
         }
       ]
     },
@@ -162,16 +162,16 @@
         {
           "file": "assets/js/285.c7061fe5.js",
           "hash": "f4c585842fbdae17",
-          "publicPath": "/assets/js/285.c7061fe5.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/285.c7061fe5.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.787c3582.js",
-          "hash": "1091808b39cdb420",
-          "publicPath": "/assets/js/runtime~main.787c3582.js"
+          "file": "assets/js/runtime~main.1af950da.js",
+          "hash": "0c56d3773f82416b",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/runtime~main.1af950da.js"
         }
       ]
     },
@@ -180,16 +180,16 @@
         {
           "file": "assets/js/17896441.5df5dedc.js",
           "hash": "c0852199d85d4f52",
-          "publicPath": "/assets/js/17896441.5df5dedc.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/17896441.5df5dedc.js"
         }
       ]
     },
     "465": {
       "js": [
         {
-          "file": "assets/js/382c4be3.acfb8f30.js",
-          "hash": "4a7a01d93d2bbf51",
-          "publicPath": "/assets/js/382c4be3.acfb8f30.js"
+          "file": "assets/js/382c4be3.27cb3705.js",
+          "hash": "001eef1aa3c5233c",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/382c4be3.27cb3705.js"
         }
       ]
     },
@@ -198,25 +198,25 @@
         {
           "file": "assets/js/1df93b7f.7c83a6b1.js",
           "hash": "a0d23918387208f4",
-          "publicPath": "/assets/js/1df93b7f.7c83a6b1.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/1df93b7f.7c83a6b1.js"
         }
       ]
     },
     "593": {
       "js": [
         {
-          "file": "assets/js/b9130d8a.7d1cbc72.js",
-          "hash": "96209127c3b7c39b",
-          "publicPath": "/assets/js/b9130d8a.7d1cbc72.js"
+          "file": "assets/js/b9130d8a.b3bf2119.js",
+          "hash": "abc4bdfd3f8b74c1",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/b9130d8a.b3bf2119.js"
         }
       ]
     },
     "608": {
       "js": [
         {
-          "file": "assets/js/4a872977.5e87734d.js",
-          "hash": "7b4253ddd8f2ae36",
-          "publicPath": "/assets/js/4a872977.5e87734d.js"
+          "file": "assets/js/4a872977.9df5f782.js",
+          "hash": "abb6ff94dde46b69",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/4a872977.9df5f782.js"
         }
       ]
     },
@@ -225,7 +225,7 @@
         {
           "file": "assets/js/5e95c892.e681a5bd.js",
           "hash": "b39efeefba55e5b2",
-          "publicPath": "/assets/js/5e95c892.e681a5bd.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/5e95c892.e681a5bd.js"
         }
       ]
     },
@@ -234,52 +234,43 @@
         {
           "file": "assets/js/aba21aa0.d44eb0db.js",
           "hash": "652183a8c576d07d",
-          "publicPath": "/assets/js/aba21aa0.d44eb0db.js"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/aba21aa0.d44eb0db.js"
         }
       ]
     },
     "770": {
       "js": [
         {
-          "file": "assets/js/fe710af5.1721f768.js",
-          "hash": "1bafee564578a2fc",
-          "publicPath": "/assets/js/fe710af5.1721f768.js"
+          "file": "assets/js/fe710af5.3ec26128.js",
+          "hash": "9ec1d5bbe8a19945",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/fe710af5.3ec26128.js"
         }
       ]
     },
     "787": {
       "js": [
         {
-          "file": "assets/js/e5649a68.3c64fe27.js",
-          "hash": "2d353aeb8ea8c353",
-          "publicPath": "/assets/js/e5649a68.3c64fe27.js"
+          "file": "assets/js/e5649a68.747cd975.js",
+          "hash": "7601329f8f2bb52b",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/e5649a68.747cd975.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.d65aa23a.js",
-          "hash": "1b39a0b13cac3104",
-          "publicPath": "/assets/js/main.d65aa23a.js"
+          "file": "assets/js/main.dd13cae1.js",
+          "hash": "9995be61ba7b701b",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/main.dd13cae1.js"
         }
       ]
     },
     "801": {
       "js": [
         {
-          "file": "assets/js/950926f3.6a1da9bf.js",
-          "hash": "881489b0e4c29a70",
-          "publicPath": "/assets/js/950926f3.6a1da9bf.js"
-        }
-      ]
-    },
-    "849": {
-      "js": [
-        {
-          "file": "assets/js/0058b4c6.1dab70fb.js",
-          "hash": "13c1c55d617f4782",
-          "publicPath": "/assets/js/0058b4c6.1dab70fb.js"
+          "file": "assets/js/950926f3.4bab1f87.js",
+          "hash": "b2da52f405d5b397",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/950926f3.4bab1f87.js"
         }
       ]
     },
@@ -288,16 +279,25 @@
         {
           "file": "assets/css/styles.ad3d35f5.css",
           "hash": "e5157eda7c6c4531",
-          "publicPath": "/assets/css/styles.ad3d35f5.css"
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/css/styles.ad3d35f5.css"
+        }
+      ]
+    },
+    "922": {
+      "js": [
+        {
+          "file": "assets/js/02d57490.70b9a988.js",
+          "hash": "b2fe23dd53f7521e",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/02d57490.70b9a988.js"
         }
       ]
     },
     "995": {
       "js": [
         {
-          "file": "assets/js/6adde260.b0cb3749.js",
-          "hash": "c2b0a1caec480d6a",
-          "publicPath": "/assets/js/6adde260.b0cb3749.js"
+          "file": "assets/js/6adde260.8d3c9ba9.js",
+          "hash": "eebd053701d2b86e",
+          "publicPath": "/AI-Humanoid-Robotics-E-Book/assets/js/6adde260.8d3c9ba9.js"
         }
       ]
     }

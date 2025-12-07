@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/AI-Humanoid-Robotics-E-Book/__docusaurus/debug',
-    component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/__docusaurus/debug', '694'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/config',
-    component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/config', 'a4f'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/content',
-    component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/content', '502'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/globalData',
-    component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/globalData', '77b'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/metadata',
-    component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/metadata', 'a83'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/registry',
-    component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/registry', 'e40'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/routes',
-    component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/__docusaurus/debug/routes', '6dc'),
-    exact: true
-  },
-  {
     path: '/AI-Humanoid-Robotics-E-Book/markdown-page',
     component: ComponentCreator('/AI-Humanoid-Robotics-E-Book/markdown-page', '9c9'),
     exact: true
