@@ -1,6 +1,6 @@
 
 
-# **Chapter 5: Final Project (Bringing the Nervous System Together)**
+# Chapter 5: Final Project (Bringing the Nervous System Together)
 
 ## **Table of Contents**
 

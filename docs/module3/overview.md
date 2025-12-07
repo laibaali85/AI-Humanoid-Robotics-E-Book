@@ -1,5 +1,5 @@
 
-# **Module 3: The AI-Robot Brain (Overview)**
+# Module 3: The AI-Robot Brain (Overview)
 
 ## **Introduction: Intelligence for the Body You Built**
 

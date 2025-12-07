@@ -1,5 +1,5 @@
 
-# **Module 2: The Digital Twin (Overview)**
+# Module 2: The Digital Twin (Overview)
 
 ## **Introduction: The Virtual Body of a Robot**
 

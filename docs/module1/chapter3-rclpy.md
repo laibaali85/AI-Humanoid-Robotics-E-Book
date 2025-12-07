@@ -1,6 +1,6 @@
 
 
-# **Chapter 3: Connecting with rclpy (Python Client Library)**
+# Chapter 3: Connecting with rclpy (Python Client Library)
 
 Robots need a way to *talk*, *listen*, and *share information* inside their bodies. In ROS 2, this communication happens through **nodes**, and the easiest way to create these nodes is by using **rclpy**, the Python client library.
 

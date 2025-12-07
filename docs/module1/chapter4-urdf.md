@@ -1,5 +1,5 @@
 
-# **Chapter 4: Describing Robots with URDF**
+# Chapter 4: Describing Robots with URDF
 
 Robots come in many shapes and sizes, but every robot needs a clear description of what its body looks like. In ROS 2, this description is written using a special file format called **URDF**, which stands for **Unified Robot Description Format**.
 

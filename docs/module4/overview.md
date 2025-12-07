@@ -1,6 +1,6 @@
 
 
-# **Module 4: Vision–Language–Action (Overview)**
+# Module 4: Vision–Language–Action (Overview)
 
 ## **Introduction: Teaching Robots to Understand Us**
 

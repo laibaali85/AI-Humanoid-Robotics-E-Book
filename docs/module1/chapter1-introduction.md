@@ -1,6 +1,6 @@
 
 
-# **Chapter 1: Introduction to ROS 2 (Understanding the Nervous System)**
+# Chapter 1: Introduction to ROS 2 (Understanding the Nervous System)
 
 Robots may look strong on the outside, but inside, they need a smart and organized way to *talk*, *listen*, and *work together*.
 This is what **ROS 2**, the **Robot Operating System 2**, is made for.
